@@ -1,4 +1,4 @@
-# 🎬 Advanced Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 An advanced content-based movie recommendation system that combines **TF-IDF cosine similarity** with **Sentence-Transformers semantic embeddings** to provide highly accurate movie recommendations.
 
